@@ -1,2 +1,2 @@
 # citycar
-testing possibilities
+testing possibilities with quarkus
